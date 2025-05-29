@@ -16,11 +16,15 @@ To build a transparent, tamper-proof system that enables all participants in the
 
 ## Future Scope
 
-- Expand to support multiple product IDs with dynamic tracking.
-- Integrate QR code scanning and off-chain metadata (e.g., batch info).
-- Add timestamped audit trails for compliance and analytics.
-- Build a frontend dashboard for real-time tracking visualization.
-- Add role-based access control for manufacturer, transporter, and retailer.
+Support tracking for multiple products via unique IDs.
+
+Integration with QR code scanning and off-chain metadata (e.g., batch numbers, expiration dates).
+
+Add timestamped audit trails for regulatory compliance and detailed analytics.
+
+Develop a frontend dashboard for real-time product status visualization.
+
+Implement role-based access control for manufacturers, transporters, retailers, etc.
 
 ## Contract details
 0x50e15cb4E50D7d4923203B8de8FD0b64454425cd
