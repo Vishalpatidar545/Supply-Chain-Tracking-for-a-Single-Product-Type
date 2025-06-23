@@ -4,7 +4,7 @@
 
 This smart contract provides a minimalistic on-chain supply chain tracker for a single product type. It captures and records the movement of a product from manufacturing to delivery, logging its status and current custodian at each stage.
 
-## Project Vision
+## Project - Vision
 
 To build a transparent, tamper-proof system that enables all participants in the supply chain to verify the current state and custody of a product. The vision is to enhance trust and traceability without relying on centralized authorities.
 
