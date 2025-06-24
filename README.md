@@ -6,7 +6,7 @@ This smart contract provides a minimalistic on-chain supply chain tracker for a 
 
 ## Project - Vision
 
-To build a transparent, tamper-proof system that enables all participants in the supply chain to verify the current state and custody of a product. The vision is to enhance trust and traceability without relying on centralized authorities.
+To develop a transparent, tamper-resistant, and decentralized system that empowers all stakeholders in the supply chain to independently verify the status, location, and custody of products at any point. The system aims to enhance trust, ensure end-to-end traceability, and eliminate dependency on centralized intermediaries by leveraging secure and verifiable technologies.
 
 ## Key Features
 
