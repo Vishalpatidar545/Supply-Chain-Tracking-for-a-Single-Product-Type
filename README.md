@@ -1,10 +1,10 @@
 # Supply Chain Tracking for a Single Product Type
 
-## Project Description
+# Project Description
 
 This smart contract provides a minimalistic on-chain supply chain tracker for a single product type. It captures and records the movement of a product from manufacturing to delivery, logging its status and current custodian at each stage.
 
-## Project - Vision
+# Project - Vision
 
 To develop a transparent, tamper-resistant, and decentralized system that empowers all stakeholders in the supply chain to independently verify the status, location, and custody of products at any point. The system aims to enhance trust, ensure end-to-end traceability, and eliminate dependency on centralized intermediaries by leveraging secure and verifiable technologies.
 
