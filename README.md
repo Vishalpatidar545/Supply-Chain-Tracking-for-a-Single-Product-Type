@@ -1,6 +1,6 @@
 # Supply Chain Tracking for a Single Product Type
 
-# Project Description
+## Project Description
 
 This smart contract provides a minimalistic on-chain supply chain tracker for a single product type. It captures and records the movement of a product from manufacturing to delivery, logging its status and current custodian at each stage.
 
