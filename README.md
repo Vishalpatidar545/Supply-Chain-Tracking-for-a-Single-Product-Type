@@ -1,4 +1,4 @@
-## Supply Chain Tracking for a Single Product Type
+# Supply Chain Tracking for a Single Product Type
 
 ## Project Description
 
